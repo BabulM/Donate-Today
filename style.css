@@ -1,5 +1,36 @@
 .container{
-    position: relative;
-    color: brown;
+    background-image: url(images/donation13.jpg);
+
+    display: inline;
+    width: 100%;
+    height: 100%;
+}
+.container2{
+text-align: center;
+}
+.link{
+    padding: 10px 20px;
+border-radius: 10px;
+    background-color: rgb(218, 13, 47);
+  
+}
+.title1{
+    text-align: center;
+    padding-top: 20px;
+}
+.title1 p{
     text-align: center;
 }
+.flexible-container{
+    width: 20%;
+    
+}
+.title2{
+    text-align: center;
+    padding-top: 30px;
+}
+.title2 p{
+    text-align: center;
+}
+
+

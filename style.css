@@ -1,4 +1,6 @@
-
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
 .test{
     background-image: url(images/donation2.jpg);
     padding-top: 60px;
@@ -105,6 +107,8 @@ border-radius: 10px;
 }
 .title2 p{
     text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 .new-update{
     text-align: center;
